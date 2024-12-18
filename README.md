@@ -6,6 +6,12 @@ Features  :
 
 
 Machine Learning Model: Linear Regression for fare prediction.
+
+
 Data Preprocessing: Handling missing values, feature engineering, and outlier detection.
+
+
 Feature Analysis: Scatter plots, heatmaps, and correlation matrices for better insights.
+
+
 Model Evaluation: R-squared, RMSE, and Cross-Validation for accuracy and reliability
